@@ -1,0 +1,12 @@
+{
+  "name": "sheet-test",
+  "version": "0.0.0",
+  "description": "sheetTest",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
